@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+qiskit
+networkx
+pandas
+numpy
+streamlit
+matplotlib
